@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54ace38d-a6f5-4cde-b591-13c9acc83077" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/graphql_api/migrations/0002_post.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphql_api/fixtures/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/graphql_api/fixtures/users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphql_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphql_api/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graphql_api/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphql_api/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graphql_sm_api/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphql_sm_api/schema.py" afterDir="false" />
     </list>
@@ -22,13 +26,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sN7qpi8gyOeXDN6E93NfkIKXPx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -58,20 +65,24 @@
       <updated>1620701386715</updated>
       <workItem from="1620701392848" duration="1259000" />
       <workItem from="1620706121168" duration="6095000" />
+      <workItem from="1620757098166" duration="4556000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1507" y="6" key="SettingsEditor" timestamp="1620705574567">
       <screen x="1366" y="0" width="1280" height="728" />
     </state>
     <state x="1507" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1280.728@1366.0.1280.728" timestamp="1620705574567" />
-    <state x="1702" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1620706121684">
+    <state x="1702" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1620757226178">
       <screen x="1366" y="0" width="1280" height="728" />
     </state>
-    <state x="1702" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.728@1366.0.1280.728" timestamp="1620706121684" />
+    <state x="1702" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.728@1366.0.1280.728" timestamp="1620757226178" />
   </component>
 </project>
