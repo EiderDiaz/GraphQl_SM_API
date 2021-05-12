@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54ace38d-a6f5-4cde-b591-13c9acc83077" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/graphql_api/migrations/0002_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-entrypoint.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphql_api/fixtures/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/graphql_api/fixtures/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphql_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphql_api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphql_api/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphql_api/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphql_sm_api/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphql_sm_api/schema.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -65,7 +63,8 @@
       <updated>1620701386715</updated>
       <workItem from="1620701392848" duration="1259000" />
       <workItem from="1620706121168" duration="6095000" />
-      <workItem from="1620757098166" duration="4556000" />
+      <workItem from="1620757098166" duration="4803000" />
+      <workItem from="1620771350410" duration="3235000" />
     </task>
     <servers />
   </component>
@@ -76,13 +75,13 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1507" y="6" key="SettingsEditor" timestamp="1620705574567">
+    <state x="1507" y="6" key="SettingsEditor" timestamp="1620772194871">
       <screen x="1366" y="0" width="1280" height="728" />
     </state>
-    <state x="1507" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1280.728@1366.0.1280.728" timestamp="1620705574567" />
-    <state x="1702" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1620757226178">
+    <state x="1507" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1280.728@1366.0.1280.728" timestamp="1620772194871" />
+    <state x="1702" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1620771350398">
       <screen x="1366" y="0" width="1280" height="728" />
     </state>
-    <state x="1702" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.728@1366.0.1280.728" timestamp="1620757226178" />
+    <state x="1702" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.728@1366.0.1280.728" timestamp="1620771350397" />
   </component>
 </project>
